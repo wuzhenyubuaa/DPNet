@@ -9,14 +9,7 @@ In this paper, we attempt to reveal the nuance in the training strategy of salie
 ![fig1](./img/pipeline.jpg)
 
 
-##Requirements
-- Python 3.5
--  OpenCV
-- PyTorch 0.4
 
-### Visual comparison with previous start-of-the-arts
-
-![fig1](./img/sal_maps.jpg)
 
 
 	
