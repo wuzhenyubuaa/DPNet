@@ -41,5 +41,5 @@ Before you start, you also need our pretrained model.
 
 ## Download
 
-We provide the [results](https://pan.baidu.com/s/1taDGV6TQnBK4wgihD1my3w) (Fetch Code: aibq)online datasets including DUTS-OMRON, DUTS-TE, ECSSD, HKU-IS, PASCAL-S. 
+We provide the [results](https://pan.baidu.com/s/1M73-wrHnoFOaLhADjDjs4A) (Fetch Code: iirk)online datasets including DUTS-OMRON, DUTS-TE, ECSSD, HKU-IS, PASCAL-S. 
 <hr>
