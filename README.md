@@ -8,7 +8,7 @@ In this paper, we attempt to reveal the nuance in the training strategy of salie
 
 
 
- <img src="./img/pipeline.jpg" width = "600" height = "400" alt="Framework" align=center />
+ <img src="./img/pipeline.jpg" width = "800" height = "400" alt="Framework" align=center />
 
 
 	
