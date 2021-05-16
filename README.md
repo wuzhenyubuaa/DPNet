@@ -6,10 +6,9 @@ In this paper, we attempt to reveal the nuance in the training strategy of salie
 
 ## Network architecture
 
-![fig1](./img/pipeline.jpg)
 
 
-
+ <img src="./img/pipeline.jpg" width = "300" height = "200" alt="Framework" align=center />
 
 
 	
