@@ -24,5 +24,5 @@ To obtain the same score with our paper, we recommend the [evaluation code](http
 | Backbone | # Params | #FLOPs | Saliency maps |
 | :---: | :---: |  :---: |  :---: | 
 | DPNet-50| 27.1M | 9.2G | [maps](https://pan.baidu.com/s/1M73-wrHnoFOaLhADjDjs4A) (Fetch Code: iirk) |
-| DPNet-101| 44.7M | 12.6G | |
-| DPNet-152| 59.1M | 16G | |
+| DPNet-101| 44.7M | 12.6G |[maps](https://pan.baidu.com/s/1FzdrxWG9hE0svuVJabgH1g) (Fetch Code: izwv) |
+| DPNet-152| 59.1M | 16G | [maps](https://pan.baidu.com/s/17QJTNN53-xaxfI6ldZZFHA) (Fetch Code: xsx5)  |
