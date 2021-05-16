@@ -19,3 +19,10 @@ In this paper, we attempt to reveal the nuance in the training strategy of salie
 
 We provide the [saliency maps](https://pan.baidu.com/s/1M73-wrHnoFOaLhADjDjs4A) (Fetch Code: iirk) for comparisions,  including DUTS-OMRON, DUTS-TE, ECSSD, HKU-IS, PASCAL-S. 
 To obtain the same score with our paper, we recommend the [evaluation code](https://github.com/ArcherFMY/sal_eval_toolbox) provided by Feng Mengyang.
+
+
+| Backbone | # params | FLOPs | saliency maps |
+| :---: | :---: |  :---: |  :---: | 
+| DPNet-50| 27.1M | 9.2G | |
+| DPNet-101| 44.7.1M | 12.6G | |
+| DPNet-152| 59.1M | 16G | |
